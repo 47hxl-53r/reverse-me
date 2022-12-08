@@ -14,3 +14,9 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Python+Rev
 # Submission
 > To submit the flag, click [here](https://wa.me/+918606672509)!
 
+# About
+> This CTF was created by 47hx1-53r.
+
+# Social
+Follow me on [instagram](https://instagram.com/atul.d4)
+
