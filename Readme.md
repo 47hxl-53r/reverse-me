@@ -9,7 +9,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Python+Rev
 </p>
 
 # Reverse Me
-> This is an advanced level python reverse engineering CTF which goes through obfuscated cheesy codes.
+> This is an easy level python reverse engineering CTF which goes through obfuscated cheesy codes.
 
 # Submission
 > To submit the flag, click [here](https://wa.me/+918606672509)!
