@@ -18,5 +18,4 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Python+Rev
 > This CTF was created by 47hx1-53r.
 
 # Social
-Follow me on [instagram](https://instagram.com/atul.d4)
-
+[Telegram channel](https://t.me/mortylab)
